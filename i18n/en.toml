@@ -144,8 +144,17 @@ other = "Read More"
 [pageNotFound]
 other = "Page not found"
 
-[pageNotFoundText]
-other = "The page you're looking for doesn't exist. Sorry."
+[pageNotFoundTitle]
+other = "Not found!"
+
+[pageNotFoundTexto]
+other = "The page you're looking for either doesn't exist or was moved to somewhere else."
+
+[pageNotFoundHomepage]
+other = "You can go back to the homepage"
+
+[pageNotFoundWarn]
+other = "let me know."
 # === 404.html ===
 
 # === shortcodes/admonition.html ===
@@ -196,3 +205,8 @@ other = "CHANGED"
 [deleted]
 other = "DELETED"
 # === shortcodes/version.html ===
+
+# === misc ===
+[or]
+other = "or"
+# === misc ===
